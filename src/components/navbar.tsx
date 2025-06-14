@@ -3,7 +3,7 @@ import { ColorModeButton, useColorMode } from '@/components/ui/color-mode'
 
 import { Box, Button, Flex, HStack, Link, Stack, Image } from '@chakra-ui/react'
 import { useState } from 'react'
-import { IoBriefcaseOutline, IoHomeOutline, IoMailOpenOutline, IoMenu } from 'react-icons/io5'
+import { IoHomeOutline, IoMailOpenOutline, IoMenu } from 'react-icons/io5'
 import { PiProjectorScreen } from 'react-icons/pi'
 import { RxCross2 } from 'react-icons/rx'
 
