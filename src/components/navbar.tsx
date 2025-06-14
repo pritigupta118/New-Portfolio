@@ -153,11 +153,6 @@ const navitems: NavLink[] = [
     href: '#projects',
   },
   {
-    label: 'Work',
-    icon: <IoBriefcaseOutline />,
-    href: '#work',
-  },
-  {
     label: 'Contact',
     icon: <IoMailOpenOutline />,
     href: '#contact',
