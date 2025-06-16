@@ -40,8 +40,7 @@ export const projectsData: Projects[] = [
     title: 'Wizard Case',
      image: '/wizardcase.png',
   techStack: ['Next.js', 'Tailwind CSS', 'TypeScript', 'Stripe', 'ShadCN', 'Prisma', 'PostgreSQL', 'React-Query'],
-    description:
-      'A online code compiler and editor that supports HTML, CSS, JavaScript. It allows users to write, compile, and run code directly in the browser, making it a convenient tool for learning and testing code snippets.',
+    description: 'An e-commerce platform specializing in custom phone cases, offering users the ability to design and purchase personalized cases. It features a user-friendly design interface, secure payment processing via Stripe, and efficient order management powered by Prisma and PostgreSQL.',
     href: 'https://wizerd-case.vercel.app/',
   
   },
