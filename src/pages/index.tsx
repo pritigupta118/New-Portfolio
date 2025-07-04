@@ -39,6 +39,16 @@ import { IoLogoJavascript } from 'react-icons/io5'
 import { RiNextjsFill } from 'react-icons/ri'
 import { SiExpress, SiPrisma } from 'react-icons/si'
 
+export const metadata = {
+  twitter : {
+    card: "summary_large_image",
+    title: "Priti Gupta - Portfolio",
+    description: "Welcome to my portfolio! Explore my projects, tech stack, and contact me for collaborations.",
+    creator: "@PritiGu46230019",
+    images: ["/logo.jpeg"]
+  }
+  
+}
 export default function Home() {
   return (
     <>
