@@ -8,7 +8,7 @@ export const siteConfig = {
     about:
       'I am a self taught Full Stack Developer. Passionate about building web applications and exploring new technologies. I love to create user-friendly interfaces and work on backend systems to deliver seamless experiences.',
   },
-  Resume: 'https://drive.google.com/file/d/1KYAvUHGu69e0_Z4A4LPjFug7Xin4xrIc/view',
+  Resume: 'https://drive.google.com/file/d/1jtk-l9j74a2e3fFX8r2EfQbAiwhAiKf6/view?usp=sharing',
   contact: {
     email: 'pritigupta1144@gmail.com',
     phone: '8918904039',

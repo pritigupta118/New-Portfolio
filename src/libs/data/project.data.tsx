@@ -36,6 +36,15 @@ export const projectsData: Projects[] = [
     href: 'https://code-orbit-ten.vercel.app/',
   
   },
+      {
+    title: 'NaukriHub',
+     image: '/naukrihub.png',
+  techStack: ['React', 'Tailwind CSS', 'JavaScript', 'MongoDB', 'Express.js', 'Node.js', 'Redux', 'ShadaCN', 'Multer'],
+    description:
+      'a MERN Stack Job Portal designed to connect job seekers and employers seamlessly! It offers a user-friendly interface for job seekers to find and apply for jobs, while employers can post job listings and manage applications efficiently.',
+    href: 'https://naukri-hub-kghy.vercel.app/',
+  
+  },
   {
     title: 'Wizard Case',
      image: '/wizardcase.png',
@@ -44,13 +53,5 @@ export const projectsData: Projects[] = [
     href: 'https://wizerd-case.vercel.app/',
   
   },
-    {
-    title: 'NaukriHub',
-     image: '/naukrihub.png',
-  techStack: ['React', 'Tailwind CSS', 'JavaScript', 'MongoDB', 'Express.js', 'Node.js', 'Redux', 'ShadaCN', 'Multer'],
-    description:
-      'a MERN Stack Job Portal designed to connect job seekers and employers seamlessly! It offers a user-friendly interface for job seekers to find and apply for jobs, while employers can post job listings and manage applications efficiently.',
-    href: 'https://naukrihub.onrender.com/',
-  
-  },
+
 ]
