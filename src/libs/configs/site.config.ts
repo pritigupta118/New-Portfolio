@@ -4,7 +4,7 @@ export const siteConfig = {
     title: 'Full Stack Developer',
     logo: '/logo.jpeg',
     location: 'West Bengal, India',
-    experience: '1 year',
+    experience: 'Fresher',
     about:
       'I am a self taught Full Stack Developer. Passionate about building web applications and exploring new technologies. I love to create user-friendly interfaces and work on backend systems to deliver seamless experiences.',
   },
